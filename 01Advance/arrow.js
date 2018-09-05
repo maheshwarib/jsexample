@@ -45,4 +45,4 @@ const cameras = {
 console.log(cameras.myDes());
 //Redux 
 
-const func = () =>({key: 'Value'});
+//const func = () =>({key: 'Value'});
